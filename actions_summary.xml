@@ -13,15 +13,23 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582079504709" />
-              <option name="times" value="4" />
+              <option name="last" value="1582081381945" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582079486942" />
+              <option name="last" value="1582082294463" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoDeclaration">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582081778527" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
