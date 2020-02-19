@@ -37,16 +37,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582121468353" />
-              <option name="times" value="95" />
+              <option name="last" value="1582126888966" />
+              <option name="times" value="112" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582121272777" />
-              <option name="times" value="8" />
+              <option name="last" value="1582127594361" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +61,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093048811" />
-              <option name="times" value="20" />
+              <option name="last" value="1582126883223" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -71,6 +71,14 @@
             <ActionSummary>
               <option name="last" value="1582092844365" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorUp">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582127041339" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,8 +109,16 @@
         <entry key="com.intellij.codeInsight.documentation.DocumentationComponent$MyGearActionGroup">
           <value>
             <ActionSummary>
-              <option name="last" value="1582082908929" />
-              <option name="times" value="4" />
+              <option name="last" value="1582127108716" />
+              <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.codeInsight.documentation.DocumentationComponent$ShowAsToolwindowAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582127117059" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,8 +133,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582121981112" />
-              <option name="times" value="2" />
+              <option name="last" value="1582127236236" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
