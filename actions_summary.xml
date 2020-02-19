@@ -26,19 +26,27 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CheckinProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582121747361" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093040208" />
-              <option name="times" value="94" />
+              <option name="last" value="1582121468353" />
+              <option name="times" value="95" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093047360" />
-              <option name="times" value="7" />
+              <option name="last" value="1582121272777" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -106,11 +114,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582121981112" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582037163851" />
-              <option name="times" value="1" />
+              <option name="last" value="1582121991874" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
