@@ -37,8 +37,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582187039115" />
-              <option name="times" value="139" />
+              <option name="last" value="1582187617561" />
+              <option name="times" value="154" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +53,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582093048569" />
-              <option name="times" value="18" />
+              <option name="last" value="1582187627596" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -82,6 +82,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Find">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582187314965" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
@@ -106,6 +114,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="SearchEverywhere">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582187296354" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.codeInsight.documentation.DocumentationComponent$MyGearActionGroup">
           <value>
             <ActionSummary>
@@ -125,8 +141,8 @@
         <entry key="com.intellij.find.SearchTextArea$ClearAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582092838141" />
-              <option name="times" value="2" />
+              <option name="last" value="1582187328379" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
