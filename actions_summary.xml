@@ -37,8 +37,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582296069613" />
-              <option name="times" value="160" />
+              <option name="last" value="1582300565978" />
+              <option name="times" value="177" />
             </ActionSummary>
           </value>
         </entry>
@@ -109,8 +109,8 @@
         <entry key="GotoImplementation">
           <value>
             <ActionSummary>
-              <option name="last" value="1582271200407" />
-              <option name="times" value="7" />
+              <option name="last" value="1582300694313" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +125,8 @@
         <entry key="Replace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582092905584" />
-              <option name="times" value="3" />
+              <option name="last" value="1582300530861" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="com.intellij.find.SearchTextArea$ClearAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582187328379" />
-              <option name="times" value="4" />
+              <option name="last" value="1582300550838" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
