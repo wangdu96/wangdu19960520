@@ -93,16 +93,16 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582255635887" />
-              <option name="times" value="8" />
+              <option name="last" value="1582271195420" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoImplementation">
           <value>
             <ActionSummary>
-              <option name="last" value="1582210720708" />
-              <option name="times" value="6" />
+              <option name="last" value="1582271200407" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
