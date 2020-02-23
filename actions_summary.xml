@@ -37,8 +37,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582470888582" />
-              <option name="times" value="242" />
+              <option name="last" value="1582499161132" />
+              <option name="times" value="248" />
             </ActionSummary>
           </value>
         </entry>
@@ -151,6 +151,14 @@
             <ActionSummary>
               <option name="last" value="1582187296354" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ToggleLineBreakpoint">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582499434028" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
