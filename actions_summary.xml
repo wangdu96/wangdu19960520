@@ -21,8 +21,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582448705254" />
-              <option name="times" value="5" />
+              <option name="last" value="1582512067832" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -37,16 +37,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582509902920" />
-              <option name="times" value="253" />
+              <option name="last" value="1582511102614" />
+              <option name="times" value="456" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582472124665" />
-              <option name="times" value="19" />
+              <option name="last" value="1582510912357" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,24 +69,24 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582468485670" />
-              <option name="times" value="26" />
+              <option name="last" value="1582510990411" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582468462470" />
-              <option name="times" value="11" />
+              <option name="last" value="1582510718539" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1582437897439" />
-              <option name="times" value="6" />
+              <option name="last" value="1582510616509" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
