@@ -37,16 +37,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582724339941" />
-              <option name="times" value="523" />
+              <option name="last" value="1582725994558" />
+              <option name="times" value="528" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582724274473" />
-              <option name="times" value="24" />
+              <option name="last" value="1582725869309" />
+              <option name="times" value="25" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +61,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1582512853494" />
-              <option name="times" value="3" />
+              <option name="last" value="1582725987949" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -77,8 +77,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582524385420" />
-              <option name="times" value="15" />
+              <option name="last" value="1582725991583" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,8 +117,8 @@
         <entry key="GotoImplementation">
           <value>
             <ActionSummary>
-              <option name="last" value="1582722652178" />
-              <option name="times" value="23" />
+              <option name="last" value="1582726383785" />
+              <option name="times" value="25" />
             </ActionSummary>
           </value>
         </entry>
