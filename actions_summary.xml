@@ -61,16 +61,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582805613119" />
-              <option name="times" value="698" />
+              <option name="last" value="1582809696116" />
+              <option name="times" value="722" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582808290636" />
-              <option name="times" value="32" />
+              <option name="last" value="1582808920233" />
+              <option name="times" value="33" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,16 +93,16 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582805848382" />
-              <option name="times" value="34" />
+              <option name="last" value="1582808921326" />
+              <option name="times" value="35" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582758939462" />
-              <option name="times" value="22" />
+              <option name="last" value="1582808857417" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="com.intellij.codeInsight.documentation.DocumentationComponent$EditDocumentationSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582770807718" />
-              <option name="times" value="1" />
+              <option name="last" value="1582809730506" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
