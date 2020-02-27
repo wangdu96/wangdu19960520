@@ -178,11 +178,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Subversion.ImportToSVNRepository">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582782322537" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
               <option name="last" value="1582758748954" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Vcs.QuickListPopupAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582782310924" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="WebDeployment.Options">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582782614355" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,8 +253,8 @@
         <entry key="com.intellij.ide.actions.CollapseAllToolbarAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582167951463" />
-              <option name="times" value="2" />
+              <option name="last" value="1582782368081" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -250,11 +274,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582782397561" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction">
           <value>
             <ActionSummary>
               <option name="last" value="1582121991874" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.idea.svn.dialogs.RepositoryBrowserDialog$AddLocationAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582782371209" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.idea.svn.dialogs.RepositoryBrowserDialog$DetailsAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582782369721" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
