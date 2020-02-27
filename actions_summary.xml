@@ -45,8 +45,8 @@
         <entry key="ChooseDebugConfiguration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582786033373" />
-              <option name="times" value="1" />
+              <option name="last" value="1582792867576" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -167,6 +167,14 @@
             <ActionSummary>
               <option name="last" value="1582300530861" />
               <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="RunAnything">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582792794550" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
