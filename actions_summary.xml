@@ -101,8 +101,8 @@
         <entry key="FindUsages">
           <value>
             <ActionSummary>
-              <option name="last" value="1582278350549" />
-              <option name="times" value="1" />
+              <option name="last" value="1582770824317" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,8 +117,8 @@
         <entry key="GotoImplementation">
           <value>
             <ActionSummary>
-              <option name="last" value="1582759322557" />
-              <option name="times" value="33" />
+              <option name="last" value="1582770837952" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
@@ -162,6 +162,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ShowIntentionActions">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582770816839" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
@@ -170,11 +178,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.codeInsight.documentation.DocumentationComponent$EditDocumentationSourceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582770807718" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.codeInsight.documentation.DocumentationComponent$MyGearActionGroup">
           <value>
             <ActionSummary>
-              <option name="last" value="1582211180882" />
-              <option name="times" value="6" />
+              <option name="last" value="1582770800088" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -182,6 +198,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582127117059" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.codeInsight.documentation.DocumentationComponent$ShowToolbarAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582770803476" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
