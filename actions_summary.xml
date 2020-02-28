@@ -269,8 +269,8 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1582875948400" />
-              <option name="times" value="19" />
+              <option name="last" value="1582905833194" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +373,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582871821168" />
-              <option name="times" value="10" />
+              <option name="last" value="1582905857679" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
