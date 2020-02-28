@@ -29,8 +29,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582805620445" />
-              <option name="times" value="9" />
+              <option name="last" value="1582872081950" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -58,27 +58,43 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ConfigureSoftWraps">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582871809672" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582868603508" />
-              <option name="times" value="794" />
+              <option name="last" value="1582872802400" />
+              <option name="times" value="829" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorContextInfo">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582871515606" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582845926013" />
-              <option name="times" value="39" />
+              <option name="last" value="1582871356862" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582870870860" />
-              <option name="times" value="66" />
+              <option name="last" value="1582872699775" />
+              <option name="times" value="71" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,16 +165,16 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582870772721" />
-              <option name="times" value="28" />
+              <option name="last" value="1582872004464" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoImplementation">
           <value>
             <ActionSummary>
-              <option name="last" value="1582870769608" />
-              <option name="times" value="40" />
+              <option name="last" value="1582872010666" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
@@ -167,6 +183,14 @@
             <ActionSummary>
               <option name="last" value="1582722647629" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ParameterInfo">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582871545490" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -218,6 +242,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="SmartTypeCompletion">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582871510278" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Subversion.ImportToSVNRepository">
           <value>
             <ActionSummary>
@@ -226,11 +258,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="TabList">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582871829339" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1582870784972" />
-              <option name="times" value="9" />
+              <option name="last" value="1582871820126" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -238,6 +278,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582782310924" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ViewInplaceComments">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582871494937" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -298,6 +346,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$13">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582871704316" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
@@ -317,8 +373,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582815320545" />
-              <option name="times" value="5" />
+              <option name="last" value="1582871821168" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
