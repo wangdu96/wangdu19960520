@@ -29,8 +29,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582943248485" />
-              <option name="times" value="20" />
+              <option name="last" value="1582943628535" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -82,6 +82,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditSource">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582944199397" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
@@ -110,6 +118,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582943152854" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorDuplicate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943626507" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -218,6 +234,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="IdeScriptingConsole">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943937585" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="MembersPullUp">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582944091263" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ParameterInfo">
           <value>
             <ActionSummary>
@@ -245,8 +277,8 @@
         <entry key="Rerun">
           <value>
             <ActionSummary>
-              <option name="last" value="1582943425092" />
-              <option name="times" value="2" />
+              <option name="last" value="1582943995999" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +349,8 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1582943382358" />
-              <option name="times" value="25" />
+              <option name="last" value="1582943981813" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -327,6 +359,14 @@
             <ActionSummary>
               <option name="last" value="1582943155732" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Unscramble">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943579784" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +381,8 @@
         <entry key="ViewBreakpoints">
           <value>
             <ActionSummary>
-              <option name="last" value="1582943368153" />
-              <option name="times" value="1" />
+              <option name="last" value="1582943949549" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -434,6 +474,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.structureView.newStructureView.TreeActionWrapper">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582944054924" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.actionSystem.DefaultActionGroup">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943908017" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$13">
           <value>
             <ActionSummary>
@@ -458,10 +514,26 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582944221546" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1582943481371" />
+              <option name="last" value="1582943558324" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.xdebugger.impl.actions.EditBreakpointAction$ContextAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582944007320" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
@@ -469,8 +541,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582943352055" />
-              <option name="times" value="12" />
+              <option name="last" value="1582944037346" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
@@ -511,6 +583,14 @@
             <ActionSummary>
               <option name="last" value="1582782369721" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="tasks.configure.servers">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943555893" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
