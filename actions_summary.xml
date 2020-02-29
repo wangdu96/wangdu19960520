@@ -29,8 +29,16 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582872081950" />
-              <option name="times" value="19" />
+              <option name="last" value="1582943248485" />
+              <option name="times" value="20" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CMake.CompileCurrentFile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943261492" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -55,6 +63,14 @@
             <ActionSummary>
               <option name="last" value="1582792867576" />
               <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CollapseBlock">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943096695" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -87,6 +103,14 @@
             <ActionSummary>
               <option name="last" value="1582903033362" />
               <option name="times" value="42" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorDown">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943152854" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -135,6 +159,14 @@
             <ActionSummary>
               <option name="last" value="1582774983406" />
               <option name="times" value="8" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ExpandAll">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943272735" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -210,6 +242,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Rerun">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943425092" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943505129" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="RunAnything">
           <value>
             <ActionSummary>
@@ -269,8 +317,16 @@
         <entry key="ToggleLineBreakpoint">
           <value>
             <ActionSummary>
-              <option name="last" value="1582905833194" />
-              <option name="times" value="20" />
+              <option name="last" value="1582943382358" />
+              <option name="times" value="25" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="TypeHierarchy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943155732" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -278,6 +334,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582782310924" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ViewBreakpoints">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943368153" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -346,6 +410,30 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.hierarchy.newAPI.HierarchyBrowserBase$CloseAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943275657" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.hierarchy.newAPI.ViewSubtypesHierarchyAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943022695" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.hierarchy.newAPI.ViewSupertypesHierarchyAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943021952" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.keymap.impl.ui.KeymapPanel$13">
           <value>
             <ActionSummary>
@@ -370,11 +458,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943481371" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582905857679" />
-              <option name="times" value="11" />
+              <option name="last" value="1582943352055" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -382,6 +478,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582782397561" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="editRunConfigurations">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582943455115" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
