@@ -101,8 +101,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582980210944" />
-              <option name="times" value="911" />
+              <option name="last" value="1582982504114" />
+              <option name="times" value="920" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,8 +117,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582969539855" />
-              <option name="times" value="53" />
+              <option name="last" value="1582981939448" />
+              <option name="times" value="54" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,16 +229,16 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582969395933" />
-              <option name="times" value="38" />
+              <option name="last" value="1582982870318" />
+              <option name="times" value="40" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoImplementation">
           <value>
             <ActionSummary>
-              <option name="last" value="1582969498670" />
-              <option name="times" value="53" />
+              <option name="last" value="1582982867120" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,8 +501,8 @@
         <entry key="com.intellij.ide.structureView.newStructureView.TreeActionWrapper">
           <value>
             <ActionSummary>
-              <option name="last" value="1582944054924" />
-              <option name="times" value="2" />
+              <option name="last" value="1582982537623" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
