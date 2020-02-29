@@ -74,6 +74,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ConfigureIcs">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582980407767" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ConfigureSoftWraps">
           <value>
             <ActionSummary>
@@ -93,8 +101,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582969167088" />
-              <option name="times" value="910" />
+              <option name="last" value="1582980210944" />
+              <option name="times" value="911" />
             </ActionSummary>
           </value>
         </entry>
@@ -133,8 +141,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582872699775" />
-              <option name="times" value="71" />
+              <option name="last" value="1582980207776" />
+              <option name="times" value="72" />
             </ActionSummary>
           </value>
         </entry>
@@ -234,6 +242,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="GotoSuperMethod">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582980260535" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoTypeDeclaration">
           <value>
             <ActionSummary>
@@ -325,8 +341,8 @@
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
-              <option name="last" value="1582770816839" />
-              <option name="times" value="1" />
+              <option name="last" value="1582980265728" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
