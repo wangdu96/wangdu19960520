@@ -53,8 +53,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582870821702" />
-              <option name="times" value="4" />
+              <option name="last" value="1583033070042" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,8 +101,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583032651210" />
-              <option name="times" value="1054" />
+              <option name="last" value="1583033025987" />
+              <option name="times" value="1064" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1583030755995" />
-              <option name="times" value="22" />
+              <option name="last" value="1583033027187" />
+              <option name="times" value="24" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +181,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1583030235477" />
-              <option name="times" value="28" />
+              <option name="last" value="1583033029019" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -533,8 +533,8 @@
         <entry key="com.intellij.openapi.actionSystem.DefaultActionGroup">
           <value>
             <ActionSummary>
-              <option name="last" value="1582966146973" />
-              <option name="times" value="2" />
+              <option name="last" value="1583033162433" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
