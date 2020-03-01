@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582785437696" />
-              <option name="times" value="1" />
+              <option name="last" value="1583044001846" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -46,6 +46,22 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582805877083" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CPP.ImportCMakeProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583044773164" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CPP.NewCMakeListsFile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583044855976" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
@@ -101,8 +117,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583033025987" />
-              <option name="times" value="1064" />
+              <option name="last" value="1583045061973" />
+              <option name="times" value="1086" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,8 +133,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1583030936983" />
-              <option name="times" value="69" />
+              <option name="last" value="1583045073662" />
+              <option name="times" value="71" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +157,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1583030653186" />
-              <option name="times" value="79" />
+              <option name="last" value="1583044882337" />
+              <option name="times" value="80" />
             </ActionSummary>
           </value>
         </entry>
@@ -162,11 +178,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorLineStart">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583044256875" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1583030941757" />
-              <option name="times" value="51" />
+              <option name="last" value="1583044938153" />
+              <option name="times" value="52" />
             </ActionSummary>
           </value>
         </entry>
