@@ -701,8 +701,8 @@
         <entry key="com.intellij.ui.CommonActionsPanel$AddButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1582943558324" />
-              <option name="times" value="4" />
+              <option name="last" value="1583135517656" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -765,8 +765,8 @@
         <entry key="tasks.configure.servers">
           <value>
             <ActionSummary>
-              <option name="last" value="1582943555893" />
-              <option name="times" value="1" />
+              <option name="last" value="1583135513929" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
