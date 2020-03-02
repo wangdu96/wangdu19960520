@@ -149,8 +149,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583159900316" />
-              <option name="times" value="1646" />
+              <option name="last" value="1583161003934" />
+              <option name="times" value="1650" />
             </ActionSummary>
           </value>
         </entry>
@@ -767,6 +767,14 @@
             <ActionSummary>
               <option name="last" value="1582782369721" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.plugins.terminal.action.RenameTerminalSessionAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583160794823" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
