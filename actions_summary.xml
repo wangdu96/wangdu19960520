@@ -282,6 +282,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ExportToHTML">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583137020685" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Find">
           <value>
             <ActionSummary>
@@ -725,8 +733,8 @@
         <entry key="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582782397561" />
-              <option name="times" value="1" />
+              <option name="last" value="1583137089346" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
