@@ -37,8 +37,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1583165420401" />
-              <option name="times" value="35" />
+              <option name="last" value="1583243014507" />
+              <option name="times" value="45" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583235729081" />
-              <option name="times" value="1844" />
+              <option name="last" value="1583243020577" />
+              <option name="times" value="1913" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1583225471244" />
-              <option name="times" value="178" />
+              <option name="last" value="1583243016910" />
+              <option name="times" value="192" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1583224145163" />
-              <option name="times" value="52" />
+              <option name="last" value="1583241013272" />
+              <option name="times" value="58" />
             </ActionSummary>
           </value>
         </entry>
@@ -277,8 +277,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1583226063133" />
-              <option name="times" value="16" />
+              <option name="last" value="1583240621355" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
