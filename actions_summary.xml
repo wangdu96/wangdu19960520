@@ -101,8 +101,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1583319320673" />
-              <option name="times" value="10" />
+              <option name="last" value="1583338232818" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1583301880675" />
-              <option name="times" value="65" />
+              <option name="last" value="1583338329640" />
+              <option name="times" value="68" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +781,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583319329623" />
-              <option name="times" value="6" />
+              <option name="last" value="1583338505541" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
