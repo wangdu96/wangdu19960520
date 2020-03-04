@@ -157,8 +157,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583302944057" />
-              <option name="times" value="2205" />
+              <option name="last" value="1583304980199" />
+              <option name="times" value="2240" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1583302457140" />
-              <option name="times" value="244" />
+              <option name="last" value="1583304950609" />
+              <option name="times" value="246" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1583292946343" />
-              <option name="times" value="95" />
+              <option name="last" value="1583304738587" />
+              <option name="times" value="96" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="GotoImplementation">
           <value>
             <ActionSummary>
-              <option name="last" value="1583289061929" />
-              <option name="times" value="87" />
+              <option name="last" value="1583305150298" />
+              <option name="times" value="89" />
             </ActionSummary>
           </value>
         </entry>
