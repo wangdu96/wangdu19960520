@@ -101,8 +101,8 @@
         <entry key="CheckinProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1583079185734" />
-              <option name="times" value="8" />
+              <option name="last" value="1583319320673" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583310975778" />
-              <option name="times" value="2276" />
+              <option name="last" value="1583314228952" />
+              <option name="times" value="2298" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1583309836496" />
-              <option name="times" value="251" />
+              <option name="last" value="1583314210297" />
+              <option name="times" value="256" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1583308944599" />
-              <option name="times" value="98" />
+              <option name="last" value="1583314226814" />
+              <option name="times" value="100" />
             </ActionSummary>
           </value>
         </entry>
@@ -301,8 +301,8 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582187314965" />
-              <option name="times" value="1" />
+              <option name="last" value="1583314497113" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -605,8 +605,8 @@
         <entry key="com.intellij.find.SearchTextArea$ClearAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583300781167" />
-              <option name="times" value="18" />
+              <option name="last" value="1583314485587" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -615,6 +615,14 @@
             <ActionSummary>
               <option name="last" value="1583051816404" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583314531029" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,8 +781,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583080024604" />
-              <option name="times" value="5" />
+              <option name="last" value="1583319329623" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
