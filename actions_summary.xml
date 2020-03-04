@@ -277,8 +277,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1583311158688" />
-              <option name="times" value="19" />
+              <option name="last" value="1583336641712" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -733,8 +733,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583050595294" />
-              <option name="times" value="4" />
+              <option name="last" value="1583337020031" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
