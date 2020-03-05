@@ -21,8 +21,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1583379537670" />
-              <option name="times" value="12" />
+              <option name="last" value="1583387137518" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -37,8 +37,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1583339038164" />
-              <option name="times" value="58" />
+              <option name="last" value="1583386516500" />
+              <option name="times" value="59" />
             </ActionSummary>
           </value>
         </entry>
@@ -165,8 +165,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583380195787" />
-              <option name="times" value="2464" />
+              <option name="last" value="1583387918027" />
+              <option name="times" value="2481" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +181,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1583378687676" />
-              <option name="times" value="181" />
+              <option name="last" value="1583386526760" />
+              <option name="times" value="185" />
             </ActionSummary>
           </value>
         </entry>
@@ -213,8 +213,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1583378561368" />
-              <option name="times" value="277" />
+              <option name="last" value="1583386537658" />
+              <option name="times" value="284" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1583341810635" />
-              <option name="times" value="240" />
+              <option name="last" value="1583386537981" />
+              <option name="times" value="249" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,8 +261,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1583378594031" />
-              <option name="times" value="106" />
+              <option name="last" value="1583386587788" />
+              <option name="times" value="108" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,8 @@
         <entry key="Replace">
           <value>
             <ActionSummary>
-              <option name="last" value="1583341513722" />
-              <option name="times" value="21" />
+              <option name="last" value="1583386468321" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -550,6 +550,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1583049808396" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Vcs.UpdateProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1583386668594" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
@@ -821,8 +829,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$PushBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1583378360845" />
-              <option name="times" value="13" />
+              <option name="last" value="1583386663678" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
