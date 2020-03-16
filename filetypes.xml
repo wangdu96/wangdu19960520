@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="regression" type="ObjectiveC" />
+      <mapping pattern="ami33" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
+      <mapping ext="nets" type="PLAIN_TEXT" />
       <mapping ext="nodes" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
