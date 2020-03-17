@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="regression" type="ObjectiveC" />
       <mapping pattern="ami33" type="PLAIN_TEXT" />
+      <mapping pattern="ama" type="PLAIN_TEXT" />
       <mapping pattern="2Dto3D" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
