@@ -6,6 +6,7 @@
       <mapping pattern="ama" type="PLAIN_TEXT" />
       <mapping pattern="2Dto3D" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="net" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="nets" type="PLAIN_TEXT" />
       <mapping ext="nodes" type="PLAIN_TEXT" />
