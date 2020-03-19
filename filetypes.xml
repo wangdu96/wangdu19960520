@@ -3,9 +3,11 @@
     <extensionMap>
       <mapping pattern="regression" type="ObjectiveC" />
       <mapping pattern="test.pl" type="PLAIN_TEXT" />
+      <mapping pattern="output1" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="ibm07" type="PLAIN_TEXT" />
       <mapping pattern="ami33" type="PLAIN_TEXT" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="ama" type="PLAIN_TEXT" />
       <mapping pattern="ouput" type="PLAIN_TEXT" />
       <mapping pattern="LEFTO" type="PLAIN_TEXT" />
