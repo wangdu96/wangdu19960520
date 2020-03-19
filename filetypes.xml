@@ -9,6 +9,7 @@
       <mapping pattern="ama" type="PLAIN_TEXT" />
       <mapping pattern="LEFTO" type="PLAIN_TEXT" />
       <mapping pattern="choosepart" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="2Dto3D" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="net" type="PLAIN_TEXT" />
