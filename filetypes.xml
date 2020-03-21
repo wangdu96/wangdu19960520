@@ -12,6 +12,7 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="ami33" type="PLAIN_TEXT" />
       <mapping pattern="ibm07" type="PLAIN_TEXT" />
+      <mapping pattern="pin" type="PLAIN_TEXT" />
       <mapping pattern="test.pl" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="choosepart" type="PLAIN_TEXT" />
