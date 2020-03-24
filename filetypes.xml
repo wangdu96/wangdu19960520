@@ -4,6 +4,7 @@
       <mapping pattern="regression" type="ObjectiveC" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="ama" type="PLAIN_TEXT" />
+      <mapping pattern="lefwrite" type="PLAIN_TEXT" />
       <mapping pattern="netout" type="PLAIN_TEXT" />
       <mapping pattern="LEFTO" type="PLAIN_TEXT" />
       <mapping pattern="verilog" type="PLAIN_TEXT" />
