@@ -25,6 +25,7 @@
       <mapping pattern="flute-ckt" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="ouput" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="net" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
