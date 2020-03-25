@@ -9,6 +9,7 @@
       <mapping pattern="LEFTO" type="PLAIN_TEXT" />
       <mapping pattern="verilog" type="PLAIN_TEXT" />
       <mapping pattern="output1" type="PLAIN_TEXT" />
+      <mapping pattern="input3" type="PLAIN_TEXT" />
       <mapping pattern="2Dto3D" type="PLAIN_TEXT" />
       <mapping pattern="partlayer" type="PLAIN_TEXT" />
       <mapping pattern="testpart2" type="PLAIN_TEXT" />
