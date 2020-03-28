@@ -4,6 +4,7 @@
       <mapping pattern="regression" type="ObjectiveC" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="ama" type="PLAIN_TEXT" />
+      <mapping pattern="defleftobook" type="PLAIN_TEXT" />
       <mapping pattern="lefwrite" type="PLAIN_TEXT" />
       <mapping pattern="input3" type="PLAIN_TEXT" />
       <mapping pattern="netout" type="PLAIN_TEXT" />
