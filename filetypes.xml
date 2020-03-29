@@ -35,6 +35,7 @@
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="netss" type="PLAIN_TEXT" />
       <mapping ext="net" type="PLAIN_TEXT" />
+      <mapping ext="scl" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="nets" type="PLAIN_TEXT" />
       <mapping ext="nodes" type="PLAIN_TEXT" />
