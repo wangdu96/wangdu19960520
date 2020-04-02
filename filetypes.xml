@@ -33,6 +33,7 @@
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="ouput" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="blif" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="wts" type="PLAIN_TEXT" />
       <mapping ext="netss" type="PLAIN_TEXT" />
