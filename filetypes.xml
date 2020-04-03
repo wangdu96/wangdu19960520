@@ -42,6 +42,7 @@
       <mapping ext="aux" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="nets" type="PLAIN_TEXT" />
+      <mapping ext="def" type="PLAIN_TEXT" />
       <mapping ext="nodes" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
