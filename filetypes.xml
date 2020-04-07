@@ -26,6 +26,7 @@
       <mapping pattern="test.pl" type="PLAIN_TEXT" />
       <mapping pattern="testpartlayer" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="netsnets" type="PLAIN_TEXT" />
       <mapping pattern="testnets" type="PLAIN_TEXT" />
       <mapping pattern="choosepart" type="PLAIN_TEXT" />
       <mapping pattern="test4" type="PLAIN_TEXT" />
