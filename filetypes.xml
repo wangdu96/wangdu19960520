@@ -47,6 +47,7 @@
       <mapping ext="net" type="PLAIN_TEXT" />
       <mapping ext="scl" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="hgr" type="PLAIN_TEXT" />
       <mapping ext="aux" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="nets" type="PLAIN_TEXT" />
