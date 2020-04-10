@@ -41,23 +41,24 @@
       <mapping pattern="deftonets" type="PLAIN_TEXT" />
       <mapping pattern="getsdf" type="PLAIN_TEXT" />
       <mapping pattern="ouput" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="blif" type="PLAIN_TEXT" />
-      <mapping ext="hgraux" type="PLAIN_TEXT" />
-      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="netss" type="PLAIN_TEXT" />
+      <mapping ext="hgraux" type="PLAIN_TEXT" />
+      <mapping ext="nodes" type="PLAIN_TEXT" />
+      <mapping ext="vh" type="PLAIN_TEXT" />
       <mapping ext="net" type="PLAIN_TEXT" />
-      <mapping ext="wts" type="PLAIN_TEXT" />
+      <mapping ext="aux" type="PLAIN_TEXT" />
       <mapping ext="scl" type="PLAIN_TEXT" />
+      <mapping ext="def" type="PLAIN_TEXT" />
+      <mapping ext="exe" type="PLAIN_TEXT" />
+      <mapping ext="blif" type="PLAIN_TEXT" />
+      <mapping ext="hgr" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="wts" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="nets" type="PLAIN_TEXT" />
-      <mapping ext="aux" type="PLAIN_TEXT" />
-      <mapping ext="def" type="PLAIN_TEXT" />
-      <mapping ext="nodes" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="hgr" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
