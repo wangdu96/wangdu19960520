@@ -4,5 +4,33 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.cp</mask>
+    <mask>*.cu</mask>
+    <mask>*.inl</mask>
+    <mask>*.ino</mask>
+    <mask>*.cuh</mask>
+    <mask>*.pch</mask>
+    <mask>*.c++</mask>
+    <mask>*.icc</mask>
+    <mask>*.ipp</mask>
+    <mask>*.h++</mask>
+    <mask>*.c</mask>
+    <mask>*.i</mask>
+    <mask>*.m</mask>
+    <mask>*.cxx</mask>
+    <mask>*.hh</mask>
+    <mask>*.hp</mask>
+    <mask>*.hxx</mask>
+    <mask>*.ii</mask>
+    <mask>*.hpp</mask>
+    <mask>*.tcc</mask>
+    <mask>*.mm</mask>
+    <mask>*.tpp</mask>
+    <mask>*.cc</mask>
+    <mask>*.h</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>
