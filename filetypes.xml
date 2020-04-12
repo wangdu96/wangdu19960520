@@ -29,6 +29,7 @@
       <mapping pattern="pin" type="PLAIN_TEXT" />
       <mapping pattern="def2nets" type="PLAIN_TEXT" />
       <mapping pattern="test.pl" type="PLAIN_TEXT" />
+      <mapping pattern="getfinalwts" type="PLAIN_TEXT" />
       <mapping pattern="testpartlayer" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="netsnets" type="PLAIN_TEXT" />
