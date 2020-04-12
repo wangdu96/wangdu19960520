@@ -11,8 +11,10 @@
       <mapping pattern="input3" type="PLAIN_TEXT" />
       <mapping pattern="netout" type="PLAIN_TEXT" />
       <mapping pattern="newvh" type="PLAIN_TEXT" />
+      <mapping pattern="changewts" type="PLAIN_TEXT" />
       <mapping pattern="LEFTO" type="PLAIN_TEXT" />
       <mapping pattern="verilog" type="PLAIN_TEXT" />
+      <mapping pattern="s386orig" type="PLAIN_TEXT" />
       <mapping pattern="output1" type="PLAIN_TEXT" />
       <mapping pattern="s27_3D" type="PLAIN_TEXT" />
       <mapping pattern="s38417orig" type="PLAIN_TEXT" />
@@ -46,6 +48,7 @@
       <mapping ext="nodes" type="PLAIN_TEXT" />
       <mapping ext="vh" type="PLAIN_TEXT" />
       <mapping ext="net" type="PLAIN_TEXT" />
+      <mapping ext="sdf" type="PLAIN_TEXT" />
       <mapping ext="aux" type="PLAIN_TEXT" />
       <mapping ext="scl" type="PLAIN_TEXT" />
       <mapping ext="def" type="PLAIN_TEXT" />
