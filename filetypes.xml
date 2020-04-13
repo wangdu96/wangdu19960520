@@ -5,23 +5,23 @@
       <mapping pattern="defleftonets" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="ama" type="PLAIN_TEXT" />
+      <mapping pattern="defleftobook" type="PLAIN_TEXT" />
       <mapping pattern="dealsdf" type="PLAIN_TEXT" />
       <mapping pattern="nodesnodes" type="PLAIN_TEXT" />
       <mapping pattern="lefwrite" type="PLAIN_TEXT" />
       <mapping pattern="input3" type="PLAIN_TEXT" />
       <mapping pattern="netout" type="PLAIN_TEXT" />
-      <mapping pattern="newvh" type="PLAIN_TEXT" />
       <mapping pattern="changewts" type="PLAIN_TEXT" />
+      <mapping pattern="newvh" type="PLAIN_TEXT" />
       <mapping pattern="LEFTO" type="PLAIN_TEXT" />
       <mapping pattern="verilog" type="PLAIN_TEXT" />
       <mapping pattern="s386orig" type="PLAIN_TEXT" />
       <mapping pattern="output1" type="PLAIN_TEXT" />
       <mapping pattern="s27_3D" type="PLAIN_TEXT" />
-      <mapping pattern="s38417orig" type="PLAIN_TEXT" />
       <mapping pattern="2Dto3D" type="PLAIN_TEXT" />
       <mapping pattern="partlayer" type="PLAIN_TEXT" />
+      <mapping pattern="s38417orig" type="PLAIN_TEXT" />
       <mapping pattern="testpart2" type="PLAIN_TEXT" />
-      <mapping pattern="testnets" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="nodestowts" type="PLAIN_TEXT" />
       <mapping pattern="ami33" type="PLAIN_TEXT" />
@@ -33,7 +33,7 @@
       <mapping pattern="testpartlayer" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="netsnets" type="PLAIN_TEXT" />
-      <mapping pattern="defleftobook" type="PLAIN_TEXT" />
+      <mapping pattern="testnets" type="PLAIN_TEXT" />
       <mapping pattern="choosepart" type="PLAIN_TEXT" />
       <mapping pattern="test4" type="PLAIN_TEXT" />
       <mapping pattern="test3" type="PLAIN_TEXT" />
@@ -50,6 +50,7 @@
       <mapping ext="nodes" type="PLAIN_TEXT" />
       <mapping ext="vh" type="PLAIN_TEXT" />
       <mapping ext="net" type="PLAIN_TEXT" />
+      <mapping ext="def1" type="PLAIN_TEXT" />
       <mapping ext="sdf" type="PLAIN_TEXT" />
       <mapping ext="aux" type="PLAIN_TEXT" />
       <mapping ext="scl" type="PLAIN_TEXT" />
@@ -59,7 +60,6 @@
       <mapping ext="hgr" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="def1" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="wts" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
