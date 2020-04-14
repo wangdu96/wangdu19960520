@@ -15,6 +15,7 @@
       <mapping pattern="netout" type="PLAIN_TEXT" />
       <mapping pattern="changewts" type="PLAIN_TEXT" />
       <mapping pattern="newvh" type="PLAIN_TEXT" />
+      <mapping pattern="s1423die0" type="PLAIN_TEXT" />
       <mapping pattern="LEFTO" type="PLAIN_TEXT" />
       <mapping pattern="verilog" type="PLAIN_TEXT" />
       <mapping pattern="s386orig" type="PLAIN_TEXT" />
@@ -29,6 +30,7 @@
       <mapping pattern="ami33" type="PLAIN_TEXT" />
       <mapping pattern="ibm07" type="PLAIN_TEXT" />
       <mapping pattern="pin" type="PLAIN_TEXT" />
+      <mapping pattern="s1423die1" type="PLAIN_TEXT" />
       <mapping pattern="scl format" type="PLAIN_TEXT" />
       <mapping pattern="def2nets" type="PLAIN_TEXT" />
       <mapping pattern="test.pl" type="PLAIN_TEXT" />
