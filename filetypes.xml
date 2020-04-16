@@ -36,6 +36,7 @@
       <mapping pattern="writescl" type="PLAIN_TEXT" />
       <mapping pattern="scl format" type="PLAIN_TEXT" />
       <mapping pattern="def2nets" type="PLAIN_TEXT" />
+      <mapping pattern="insertMIV" type="PLAIN_TEXT" />
       <mapping pattern="getfinalwts" type="PLAIN_TEXT" />
       <mapping pattern="test.pl" type="PLAIN_TEXT" />
       <mapping pattern="testpartlayer" type="PLAIN_TEXT" />
