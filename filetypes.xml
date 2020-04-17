@@ -23,6 +23,7 @@
       <mapping pattern="output1" type="PLAIN_TEXT" />
       <mapping pattern="s27_3D" type="PLAIN_TEXT" />
       <mapping pattern="input3" type="PLAIN_TEXT" />
+      <mapping pattern="insertMIVnets" type="PLAIN_TEXT" />
       <mapping pattern="2Dto3D" type="PLAIN_TEXT" />
       <mapping pattern="partlayer" type="PLAIN_TEXT" />
       <mapping pattern="s38417orig" type="PLAIN_TEXT" />
