@@ -15,6 +15,7 @@
       <mapping pattern="netout" type="PLAIN_TEXT" />
       <mapping pattern="getnetwts" type="PLAIN_TEXT" />
       <mapping pattern="changewts" type="PLAIN_TEXT" />
+      <mapping pattern="deftoplnew" type="PLAIN_TEXT" />
       <mapping pattern="s1423die1" type="PLAIN_TEXT" />
       <mapping pattern="s1423die0" type="PLAIN_TEXT" />
       <mapping pattern="LEFTO" type="PLAIN_TEXT" />
