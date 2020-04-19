@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="regression" type="ObjectiveC" />
+      <mapping pattern="deftonodes" type="PLAIN_TEXT" />
       <mapping pattern="defleftonets" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="ama" type="PLAIN_TEXT" />
