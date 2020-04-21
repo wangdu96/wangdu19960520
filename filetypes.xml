@@ -9,6 +9,7 @@
       <mapping pattern="newNetlist" type="PLAIN_TEXT" />
       <mapping pattern="newDEF" type="PLAIN_TEXT" />
       <mapping pattern="dealsdf" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="nodesnodes" type="PLAIN_TEXT" />
       <mapping pattern="s38417test" type="PLAIN_TEXT" />
       <mapping pattern="lefwrite" type="PLAIN_TEXT" />
