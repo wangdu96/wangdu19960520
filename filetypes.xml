@@ -52,6 +52,7 @@
       <mapping pattern="choosepart" type="PLAIN_TEXT" />
       <mapping pattern="test.pl" type="PLAIN_TEXT" />
       <mapping pattern="test3" type="PLAIN_TEXT" />
+      <mapping pattern="writeaux" type="PLAIN_TEXT" />
       <mapping pattern="newvh" type="PLAIN_TEXT" />
       <mapping pattern="s27orig" type="PLAIN_TEXT" />
       <mapping pattern="getfinalnetsswts" type="PLAIN_TEXT" />
