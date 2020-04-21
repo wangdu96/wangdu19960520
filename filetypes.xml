@@ -54,6 +54,7 @@
       <mapping pattern="test3" type="PLAIN_TEXT" />
       <mapping pattern="newvh" type="PLAIN_TEXT" />
       <mapping pattern="s27orig" type="PLAIN_TEXT" />
+      <mapping pattern="getfinalnetsswts" type="PLAIN_TEXT" />
       <mapping pattern="deftobook" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="deftonets" type="PLAIN_TEXT" />
