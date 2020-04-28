@@ -22,6 +22,7 @@
       <mapping pattern="newvh" type="PLAIN_TEXT" />
       <mapping pattern="verilog" type="PLAIN_TEXT" />
       <mapping pattern="s386orig" type="PLAIN_TEXT" />
+      <mapping pattern="newvhtest" type="PLAIN_TEXT" />
       <mapping pattern="defleftobook" type="PLAIN_TEXT" />
       <mapping pattern="output1" type="PLAIN_TEXT" />
       <mapping pattern="s27_3D" type="PLAIN_TEXT" />
