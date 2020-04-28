@@ -17,6 +17,7 @@
       <mapping pattern="changewts" type="PLAIN_TEXT" />
       <mapping pattern="s1423die1" type="PLAIN_TEXT" />
       <mapping pattern="s1423die0" type="PLAIN_TEXT" />
+      <mapping pattern="netsnets1" type="PLAIN_TEXT" />
       <mapping pattern="LEFTO" type="PLAIN_TEXT" />
       <mapping pattern="newvh" type="PLAIN_TEXT" />
       <mapping pattern="verilog" type="PLAIN_TEXT" />
