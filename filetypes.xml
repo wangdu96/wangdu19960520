@@ -63,6 +63,7 @@
       <mapping pattern="deftonets" type="PLAIN_TEXT" />
       <mapping pattern="getsdf" type="PLAIN_TEXT" />
       <mapping pattern="ama" type="PLAIN_TEXT" />
+      <mapping pattern="newDEFtest" type="PLAIN_TEXT" />
       <mapping pattern="ouput" type="PLAIN_TEXT" />
       <mapping pattern="lefdiff" type="PLAIN_TEXT" />
       <mapping pattern="s386test" type="PLAIN_TEXT" />
