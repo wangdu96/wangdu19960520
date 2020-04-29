@@ -44,6 +44,7 @@
       <mapping pattern="def2nets" type="PLAIN_TEXT" />
       <mapping pattern="insertMIV" type="PLAIN_TEXT" />
       <mapping pattern="getfinalwts" type="PLAIN_TEXT" />
+      <mapping pattern="finalnewvh" type="PLAIN_TEXT" />
       <mapping pattern="writescl" type="PLAIN_TEXT" />
       <mapping pattern="testpartlayer" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
