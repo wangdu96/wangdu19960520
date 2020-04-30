@@ -50,6 +50,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="netsnets" type="PLAIN_TEXT" />
       <mapping pattern="testnets" type="PLAIN_TEXT" />
+      <mapping pattern="s400miv1" type="PLAIN_TEXT" />
       <mapping pattern="choosepart" type="PLAIN_TEXT" />
       <mapping pattern="test4" type="PLAIN_TEXT" />
       <mapping pattern="test3" type="PLAIN_TEXT" />
