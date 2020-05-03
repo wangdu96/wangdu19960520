@@ -81,6 +81,7 @@
       <mapping ext="def" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="blif" type="PLAIN_TEXT" />
+      <mapping ext="nodesfree" type="PLAIN_TEXT" />
       <mapping ext="hgr" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
