@@ -73,6 +73,7 @@
       <mapping ext="netss" type="PLAIN_TEXT" />
       <mapping ext="hgraux" type="PLAIN_TEXT" />
       <mapping ext="nodes" type="PLAIN_TEXT" />
+      <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="vh" type="PLAIN_TEXT" />
       <mapping ext="net" type="PLAIN_TEXT" />
       <mapping ext="def1" type="PLAIN_TEXT" />
