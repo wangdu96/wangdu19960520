@@ -54,6 +54,7 @@
       <mapping pattern="getfinalnetwts" type="PLAIN_TEXT" />
       <mapping pattern="netsnets" type="PLAIN_TEXT" />
       <mapping pattern="flute-ckt" type="PLAIN_TEXT" />
+      <mapping pattern="deftopl" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="finalnewdef" type="PLAIN_TEXT" />
       <mapping pattern="s27orig" type="PLAIN_TEXT" />
