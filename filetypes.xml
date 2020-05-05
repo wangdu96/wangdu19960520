@@ -21,6 +21,7 @@
       <mapping pattern="newDEFtest" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="ouput" type="PLAIN_TEXT" />
+      <mapping pattern="newDEFspe" type="PLAIN_TEXT" />
       <mapping pattern="ibm07" type="PLAIN_TEXT" />
       <mapping pattern="getfinalwts" type="PLAIN_TEXT" />
       <mapping pattern="netout" type="PLAIN_TEXT" />
