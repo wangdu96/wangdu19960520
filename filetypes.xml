@@ -88,6 +88,7 @@
       <mapping ext="hgr" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="vh1" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="wts" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
