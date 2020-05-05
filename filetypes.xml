@@ -32,6 +32,7 @@
       <mapping pattern="insertMIVnets" type="PLAIN_TEXT" />
       <mapping pattern="ama" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="newvhspe" type="PLAIN_TEXT" />
       <mapping pattern="s38417test" type="PLAIN_TEXT" />
       <mapping pattern="getfinalnetsswts" type="PLAIN_TEXT" />
       <mapping pattern="output1" type="PLAIN_TEXT" />
