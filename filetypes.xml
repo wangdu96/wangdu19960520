@@ -72,6 +72,7 @@
       <mapping pattern="newvh" type="PLAIN_TEXT" />
       <mapping pattern="finalnewvh" type="PLAIN_TEXT" />
       <mapping pattern="2Dto3D" type="PLAIN_TEXT" />
+      <mapping ext="time" type="PLAIN_TEXT" />
       <mapping ext="netss" type="PLAIN_TEXT" />
       <mapping ext="hgraux" type="PLAIN_TEXT" />
       <mapping ext="nodes" type="PLAIN_TEXT" />
