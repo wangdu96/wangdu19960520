@@ -80,6 +80,7 @@
       <mapping ext="vh" type="PLAIN_TEXT" />
       <mapping ext="net" type="PLAIN_TEXT" />
       <mapping ext="def1" type="PLAIN_TEXT" />
+      <mapping ext="gpl" type="PLAIN_TEXT" />
       <mapping ext="sdf" type="PLAIN_TEXT" />
       <mapping ext="aux" type="PLAIN_TEXT" />
       <mapping ext="scl" type="PLAIN_TEXT" />
