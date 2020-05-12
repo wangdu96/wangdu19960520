@@ -50,6 +50,7 @@
       <mapping pattern="testnets" type="PLAIN_TEXT" />
       <mapping pattern="lefwrite" type="PLAIN_TEXT" />
       <mapping pattern="verilog" type="PLAIN_TEXT" />
+      <mapping pattern="extractpl" type="PLAIN_TEXT" />
       <mapping pattern="s400miv1" type="PLAIN_TEXT" />
       <mapping pattern="defleftonets" type="PLAIN_TEXT" />
       <mapping pattern="input3" type="PLAIN_TEXT" />
