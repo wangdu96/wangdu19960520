@@ -2,14 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="regression" type="ObjectiveC" />
+      <mapping pattern="newDEFspe" type="PLAIN_TEXT" />
       <mapping pattern="s38417orig" type="PLAIN_TEXT" />
       <mapping pattern="LEFTO" type="PLAIN_TEXT" />
       <mapping pattern="writeaux" type="PLAIN_TEXT" />
       <mapping pattern="insertMIVDEF " type="PLAIN_TEXT" />
       <mapping pattern="getnetwts" type="PLAIN_TEXT" />
-      <mapping pattern="deftoplnew" type="PLAIN_TEXT" />
+      <mapping pattern="def2nets" type="PLAIN_TEXT" />
       <mapping pattern="defleftobook" type="PLAIN_TEXT" />
-      <mapping pattern="test3" type="PLAIN_TEXT" />
       <mapping pattern="testpart2" type="PLAIN_TEXT" />
       <mapping pattern="ami33" type="PLAIN_TEXT" />
       <mapping pattern="deftonodes" type="PLAIN_TEXT" />
@@ -19,35 +19,35 @@
       <mapping pattern="newDEF" type="PLAIN_TEXT" />
       <mapping pattern="netsnets1" type="PLAIN_TEXT" />
       <mapping pattern="newDEFtest" type="PLAIN_TEXT" />
+      <mapping pattern="ama" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="ouput" type="PLAIN_TEXT" />
-      <mapping pattern="newDEFspe" type="PLAIN_TEXT" />
+      <mapping pattern="test.pl" type="PLAIN_TEXT" />
       <mapping pattern="ibm07" type="PLAIN_TEXT" />
       <mapping pattern="netout" type="PLAIN_TEXT" />
-      <mapping pattern="def2nets" type="PLAIN_TEXT" />
+      <mapping pattern="s1423die0" type="PLAIN_TEXT" />
       <mapping pattern="lefdiff" type="PLAIN_TEXT" />
       <mapping pattern="scl format" type="PLAIN_TEXT" />
       <mapping pattern="s386test" type="PLAIN_TEXT" />
       <mapping pattern="pin" type="PLAIN_TEXT" />
       <mapping pattern="insertMIVnets" type="PLAIN_TEXT" />
       <mapping pattern="test4" type="PLAIN_TEXT" />
-      <mapping pattern="ama" type="PLAIN_TEXT" />
+      <mapping pattern="test3" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="newvhspe" type="PLAIN_TEXT" />
       <mapping pattern="s38417test" type="PLAIN_TEXT" />
       <mapping pattern="getfinalnetsswts" type="PLAIN_TEXT" />
       <mapping pattern="output1" type="PLAIN_TEXT" />
-      <mapping pattern="test.pl" type="PLAIN_TEXT" />
+      <mapping pattern="changewts" type="PLAIN_TEXT" />
       <mapping pattern="getfinalwts" type="PLAIN_TEXT" />
       <mapping pattern="newvhtest" type="PLAIN_TEXT" />
-      <mapping pattern="changewts" type="PLAIN_TEXT" />
+      <mapping pattern="deftoplnew" type="PLAIN_TEXT" />
       <mapping pattern="deftobook" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="insertMIV" type="PLAIN_TEXT" />
       <mapping pattern="dealsdf" type="PLAIN_TEXT" />
       <mapping pattern="nodesnodes" type="PLAIN_TEXT" />
       <mapping pattern="partlayer" type="PLAIN_TEXT" />
-      <mapping pattern="testnets" type="PLAIN_TEXT" />
       <mapping pattern="lefwrite" type="PLAIN_TEXT" />
       <mapping pattern="verilog" type="PLAIN_TEXT" />
       <mapping pattern="extractpl" type="PLAIN_TEXT" />
@@ -67,7 +67,7 @@
       <mapping pattern="nodestowts" type="PLAIN_TEXT" />
       <mapping pattern="s27_3D" type="PLAIN_TEXT" />
       <mapping pattern="s1423die1" type="PLAIN_TEXT" />
-      <mapping pattern="s1423die0" type="PLAIN_TEXT" />
+      <mapping pattern="testnets" type="PLAIN_TEXT" />
       <mapping pattern="s386orig" type="PLAIN_TEXT" />
       <mapping pattern="writescl" type="PLAIN_TEXT" />
       <mapping pattern="newvh" type="PLAIN_TEXT" />
