@@ -29,6 +29,7 @@
       <mapping pattern="scl format" type="PLAIN_TEXT" />
       <mapping pattern="s386test" type="PLAIN_TEXT" />
       <mapping pattern="pin" type="PLAIN_TEXT" />
+      <mapping pattern="newspef" type="PLAIN_TEXT" />
       <mapping pattern="insertMIVnets" type="PLAIN_TEXT" />
       <mapping pattern="test4" type="PLAIN_TEXT" />
       <mapping pattern="ama" type="PLAIN_TEXT" />
