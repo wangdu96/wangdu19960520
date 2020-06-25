@@ -73,6 +73,7 @@
       <mapping pattern="testnets" type="PLAIN_TEXT" />
       <mapping pattern="s386orig" type="PLAIN_TEXT" />
       <mapping pattern="writescl" type="PLAIN_TEXT" />
+      <mapping pattern="ntuplace3" type="PLAIN_TEXT" />
       <mapping pattern="newvh" type="PLAIN_TEXT" />
       <mapping pattern="finalnewvh" type="PLAIN_TEXT" />
       <mapping pattern="2Dto3D" type="PLAIN_TEXT" />
